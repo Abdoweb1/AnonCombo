@@ -1,0 +1,15 @@
+Copyright 2024 Anonmails
+
+**All Rights Reserved**
+
+The owner of this software, hereinafter referred to as the "Owner," retains all rights to the software and associated documentation files (the “Software”). The Software is not free, and it is not for sale. The Owner is the only entity authorized to copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
+
+Permission is not granted to any person to obtain a copy of this Software or associated documentation files unless explicitly provided by the Owner. Any use, reproduction, modification, merging, publication, distribution, sublicensing, or sale of the Software by unauthorized parties is strictly prohibited.
+
+The Owner may, at their discretion, grant specific permissions to individuals or entities. Any such permissions granted by the Owner must be in writing and acknowledged by both parties.
+
+Unauthorized use or reproduction of the Software is subject to legal action by the Owner. By using, copying, modifying, merging, publishing, distributing, sublicensing, or selling the Software without explicit authorization, you agree to be held liable for any claims, damages, or other liabilities that may arise.
+
+This notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
